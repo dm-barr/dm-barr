@@ -1,100 +1,54 @@
-# 👋 Hola, soy Diana Barrantes Gallardo  
+# 👋 Diana Barrantes Gallardo  
 
-🎓 **Estudiante de Ingeniería de Sistemas** en la Universidad Nacional de Cajamarca (Perú)  
-🎓 **Computer Systems Engineering – Cybersecurity** en Saint Leo University (EE.UU.)  
-🌟 **Gold Microsoft Learn Student Ambassador** | **Data & AI | Cyberseguridad | Liderazgo en comunidades**  
-🌍 Comprometida con el aprendizaje continuo, la innovación tecnológica y el impacto social.  
-
----
-
-## 🚀 Acerca de mí  
-
-Soy estudiante de ingeniería con experiencia en **ciberseguridad, analítica de datos e inteligencia artificial aplicada con fines éticos y educativos**.  
-He liderado comunidades tecnológicas a nivel regional y global, impulsando proyectos que combinan **innovación, inclusión y desarrollo de talento joven**.  
-
-🔑 **Áreas de interés y especialización**:
-- Ciberseguridad en educación y protección de comunidades digitales  
-- Automatización con herramientas *low-code/no-code*  
-- Aplicación ética y educativa de la Inteligencia Artificial  
-- Desarrollo de comunidades tecnológicas inclusivas  
-- Formación de jóvenes en entornos emergentes  
+🎓 Estudiante de Ingeniería de Sistemas | Especialización en **Ciberseguridad**  
+🌐 **Microsoft Learn Student Ambassador (Gold)**  
+🔐 Enfoque en **Ciberseguridad | Inteligencia Artificial | Data & Machine Learning**  
 
 ---
 
-## 🏆 Experiencia destacada  
+## 🛠️ Stack Técnico  
 
-### 🌐 Microsoft Learn Student Ambassador (Gold)  
-**+1 año de experiencia** construyendo comunidades técnicas en América Latina y el mundo.  
-**Logros clave**:  
-- Lideré **+15 talleres y eventos** sobre Azure, Copilot, Python, GitHub, entre otros.  
-- Alcancé a **+500 estudiantes** en Latinoamérica con contenidos prácticos y accesibles.  
-- Mentoricé a nuevos embajadores fortaleciendo sus **habilidades técnicas y de liderazgo**.  
-- Colaboré con **Microsoft MVPs** y **Cloud Advocates**, ampliando mi red global.  
-- Creé recursos educativos: artículos, tutoriales y contenido audiovisual.  
+**Lenguajes & Frameworks**  
+`Python` · `JavaScript` · `HTML` · `CSS` · `Bootstrap`  
 
-### 🌍 Reconocimiento internacional  
-**Aspire Institute – Cohorte 2025 (Harvard-linked)**  
-Seleccionada entre **5,979 candidatos de más de 25,000 postulantes** a nivel mundial.  
-Formación en:  
-- Liderazgo basado en valores  
-- Pensamiento estratégico con impacto social  
-- Red internacional de agentes de cambio  
+**Data & Machine Learning**  
+`Pandas` · `NumPy` · `Scikit-learn` · `XGBoost` · `Visualización de datos`  
+
+**Ciberseguridad**  
+Buenas prácticas · Seguridad en entornos educativos y comunitarios  
+
+**Herramientas & Colaboración**  
+`Git` · `GitHub` · `VS Code` · `Jupyter` · `Colab`  
+
+**Idiomas**  
+Español (nativo) · Inglés (intermedio en progreso)  
 
 ---
 
-## 📚 Educación  
+## 📊 GitHub Stats  
 
-🎓 **Saint Leo University (EE.UU.)**  
-Ingeniería en Sistemas Computacionales – **Especialización en Ciberseguridad** (2023–2027)  
-
-🎓 **Universidad Nacional de Cajamarca (Perú)**  
-Ingeniería de Sistemas (2023–2028)  
-
-🎓 **Aspire Institute (2025)**  
-Liderazgo internacional con impacto social  
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=dm-barr&show_icons=true&theme=github_dark)  
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=dm-barr&layout=compact&theme=github_dark)  
 
 ---
 
-## 🛠️ Habilidades y Tecnologías  
+## 📌 Actividad y Progreso  
 
-- **Analítica & Datos:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Visualización  
-- **Ciberseguridad:** Fundamentos y prácticas aplicadas en entornos educativos  
-- **Desarrollo web:** HTML, CSS, JavaScript, Bootstrap  
-- **Herramientas:** Git, GitHub, VS Code, Jupyter, Colab  
-- **Idiomas:** Español (Nativo), Inglés (Básico – en progreso)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dm-barr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
 
----
-
-## 📜 Certificaciones  
-
-- 🧠 *Aprender a aprender: técnicas para tu autodesarrollo*  
-- 💻 *Lógica de programación con JavaScript*  
-- ⏱️ *Hábitos: ser productivo para cumplir metas*  
-- 🔐 *Ciberseguridad en el entorno educativo*  
-- 🌐 *HTML y CSS: desarrollo y estructura*  
+[![Repositorios](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dm-barr&theme=github_dark)](https://github.com/dm-barr)  
+[![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dm-barr&theme=github_dark)](https://github.com/dm-barr)  
+[![Contribuciones](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dm-barr&theme=github_dark)](https://github.com/dm-barr)  
 
 ---
 
-## 🏅 Honores y Distinciones  
+## 🛤️ Roadmap / Timeline Técnico  
 
-- **Dean’s List (SLU)**  
-- **Microsoft Learn Student Ambassadors – Cloud Skills Challenge Event Host**  
-- **Aspire Leaders Program**  
-- **International Women’s Day Nomination Badge**  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dm-barr&theme=tokyo-night)](https://github.com/dm-barr)  
 
 ---
 
-## 📊 Estadísticas de GitHub  
+## 🤝 Conecta conmigo  
 
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=dm-barr&show_icons=true&theme=radical)  
-
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=dm-barr&layout=compact&theme=radical)  
-
----
-
-## 🤝 Conectemos  
-
-- 📧 **Email:** dianabarrantesga1510@gmail.com  
-- 🔗 **LinkedIn:** [Diana Barrantes Gallardo](https://www.linkedin.com/in/dianabarrantesgallardo)  
-
-⭐ *Si compartes valores como el aprendizaje continuo, el impacto social y la colaboración a través de la tecnología, estaré encantada de conectar contigo.*  
+📧 **dianabarrantesga1510@gmail.com**  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/dianabarrantesgallardo)  
