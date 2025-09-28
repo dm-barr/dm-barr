@@ -27,45 +27,32 @@ Español (nativo) · Inglés (intermedio en progreso)
 
 ## 📊 GitHub Stats  
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dm-barr&show_icons=true&theme=github_dark" alt="GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dm-barr&layout=compact&theme=github_dark" alt="Top langs" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dm-barr&show_icons=true&theme=github_dark" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dm-barr&layout=compact&theme=github_dark" height="180em"/>
+</div>
 
 ---
 
 ## 📌 Actividad y Progreso  
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=dm-barr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dm-barr&theme=github_dark" alt="Repos per language" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dm-barr&theme=github_dark" alt="Most commit language" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dm-barr&theme=github_dark" alt="Profile details" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dm-barr&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dm-barr&theme=github_dark" height="180em"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dm-barr&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dm-barr&theme=github_dark" height="180em"/>
+</div>
 
 ---
 
 ## 🛤️ Roadmap / Timeline Técnico  
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dm-barr&theme=tokyo-night)](https://github.com/dm-barr)  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dm-barr&theme=tokyo-night" width="100%"/>
+</div>
 
 ---
 
