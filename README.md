@@ -27,18 +27,39 @@ Español (nativo) · Inglés (intermedio en progreso)
 
 ## 📊 GitHub Stats  
 
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=dm-barr&show_icons=true&theme=github_dark)  
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=dm-barr&layout=compact&theme=github_dark)  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=dm-barr&show_icons=true&theme=github_dark" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dm-barr&layout=compact&theme=github_dark" alt="Top langs" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📌 Actividad y Progreso  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dm-barr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
-
-[![Repositorios](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dm-barr&theme=github_dark)](https://github.com/dm-barr)  
-[![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dm-barr&theme=github_dark)](https://github.com/dm-barr)  
-[![Contribuciones](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dm-barr&theme=github_dark)](https://github.com/dm-barr)  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=dm-barr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dm-barr&theme=github_dark" alt="Repos per language" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dm-barr&theme=github_dark" alt="Most commit language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dm-barr&theme=github_dark" alt="Profile details" />
+    </td>
+  </tr>
+</table>
 
 ---
 
