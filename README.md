@@ -1,128 +1,178 @@
 <div align="center">
 
-# Hi, I'm Diana Barrantes 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D0B1E,45:4C1D95,100:A855F7&text=DIANA%20BARRANTES&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Community%20Leader&descAlignY=59&descSize=18&animation=fadeIn" alt="Diana Barrantes — Developer, Builder and Community Leader" />
 
-### B.Sc. Computer Information Systems · Cybersecurity · CAPM®
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&width=760&lines=Building+technology+with+purpose+%E2%9C%A6;Code+%C3%97+Cybersecurity+%C3%97+Leadership;Turning+ideas+into+meaningful+solutions" alt="Typing animation: Building technology with purpose" />
+</a>
 
-**Software Development | Project Management | AI & Automation**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dianabarrantesgallardo)
-[![GitHub](https://img.shields.io/badge/GitHub-dm--barr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dm-barr)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dianabarrantesga1510@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diana_Barrantes-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dianabarrantesgallardo)
+[![Email](https://img.shields.io/badge/Email-Let's_connect-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dianabarrantesga1510@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-dm--barr-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dm-barr)
 
-📍 Cajamarca, Peru
+</div>
+
+---
+
+## `~/diana $ whoami`
+
+```yaml
+name: Diana Barrantes Gallardo
+role: Developer · Builder · Technology Community Leader
+education: B.Sc. in Computer Information Systems — Cum Laude
+focus:
+  - Cybersecurity
+  - Artificial Intelligence & Automation
+  - Data & Machine Learning
+  - Technology Project Management
+credentials:
+  - CAPM®
+  - Microsoft Learn Student Ambassador — Gold
+location: Peru
+mission: "Connect the dots between technology, people, and impact."
+```
+
+I enjoy building digital solutions, learning how systems work beneath the surface, and transforming ambitious ideas into projects people can actually use. My path lives at the intersection of **software, cybersecurity, AI, and leadership**.
+
+> I do not just want technology to work — I want it to matter.
+
+---
+
+## ✦ What I bring to the table
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>💻 Build</h3>
+      <p>Web applications, data-driven solutions, prototypes, and automation workflows focused on real needs.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛡️ Secure</h3>
+      <p>A security-aware mindset grounded in cybersecurity principles, responsible development, and continuous learning.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🚀 Lead</h3>
+      <p>Project coordination, community building, and the ability to turn a shared vision into structured action.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚡ Tech constellation
+
+<div align="center">
+
+### Languages & Web
+
+![Python](https://img.shields.io/badge/Python-171429?style=for-the-badge&logo=python&logoColor=FACC15)
+![JavaScript](https://img.shields.io/badge/JavaScript-171429?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-171429?style=for-the-badge&logo=typescript&logoColor=60A5FA)
+![HTML5](https://img.shields.io/badge/HTML5-171429?style=for-the-badge&logo=html5&logoColor=F97316)
+![CSS3](https://img.shields.io/badge/CSS3-171429?style=for-the-badge&logo=css3&logoColor=38BDF8)
+![React](https://img.shields.io/badge/React-171429?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-171429?style=for-the-badge&logo=node.js&logoColor=86EFAC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-171429?style=for-the-badge&logo=bootstrap&logoColor=C084FC)
+
+### Data, AI & Automation
+
+![Pandas](https://img.shields.io/badge/Pandas-171429?style=for-the-badge&logo=pandas&logoColor=E879F9)
+![NumPy](https://img.shields.io/badge/NumPy-171429?style=for-the-badge&logo=numpy&logoColor=60A5FA)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-171429?style=for-the-badge&logo=scikitlearn&logoColor=F97316)
+![OpenCV](https://img.shields.io/badge/OpenCV-171429?style=for-the-badge&logo=opencv&logoColor=A78BFA)
+![Jupyter](https://img.shields.io/badge/Jupyter-171429?style=for-the-badge&logo=jupyter&logoColor=F97316)
+![n8n](https://img.shields.io/badge/n8n-171429?style=for-the-badge&logo=n8n&logoColor=FB7185)
+
+### Platforms & Tools
+
+![Git](https://img.shields.io/badge/Git-171429?style=for-the-badge&logo=git&logoColor=F97316)
+![GitHub](https://img.shields.io/badge/GitHub-171429?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-171429?style=for-the-badge&logo=docker&logoColor=60A5FA)
+![Supabase](https://img.shields.io/badge/Supabase-171429?style=for-the-badge&logo=supabase&logoColor=34D399)
+![MySQL](https://img.shields.io/badge/MySQL-171429?style=for-the-badge&logo=mysql&logoColor=38BDF8)
+![VS Code](https://img.shields.io/badge/VS_Code-171429?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
-
-I'm a **Computer Information Systems graduate specializing in Cybersecurity**, with a **Bachelor of Science from Saint Leo University (USA), awarded *Cum Laude***. I'm also pursuing **Systems Engineering at Universidad Nacional de Cajamarca (Peru)**.
-
-I enjoy connecting **technology, people, and project management** to build practical solutions. My interests span **software engineering, cybersecurity, AI-enabled automation, and digital transformation**. Beyond coding, I lead student initiatives, coordinate multidisciplinary teams, and help create opportunities for others to learn and grow.
-
-- 🎓 **B.Sc. in Computer Information Systems**, Specialization in **Cybersecurity** — Saint Leo University, *Cum Laude* (2026)
-- 📚 **Systems Engineering** — Universidad Nacional de Cajamarca (in progress)
-- 📋 **Certified Associate in Project Management (CAPM®)** — Project Management Institute (PMI)
-- 🌎 **President** — PMI Norte Perú Chapter Student Club
-- 💙 **Senior Microsoft Learn Student Ambassador**
-- 🎯 Currently exploring **AI automation, scalable web applications, agile practices, and cybersecurity**
-
----
-
-## 🧰 Tech Stack
-
-**Languages & Web Development**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Data, AI & Automation**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Databases, Cloud & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-**Additional areas:** Cybersecurity fundamentals · Agile & Scrum practices · Kanban · Project planning · Stakeholder coordination
-
----
-
-## 🚀 Selected Projects
-
-| Project | What it does | Technologies |
-| :--- | :--- | :--- |
-| **Muyu · Coffee Traceability** | A PWA prototype for coffee traceability, QR-based product passports, and offline-first workflows. | React · Node.js · Supabase · Prisma |
-| **SmartPark** | A smart parking prototype that monitors 12 spaces using computer vision and hardware integration. | Python · OpenCV · Flask · Arduino |
-| **Clic · Workflow Automation** | An evolving platform for automating digital workflows and connecting web services. | n8n · Docker · React · Node.js · MySQL · Supabase |
-| **PMI Norte Perú · Web Platform** | Web development work supporting digital experiences for a professional project management community. | React · Node.js · MySQL |
-
-*Some projects are prototypes, in development, or maintained in private/team repositories. Public demos and repository links will be added when available.*
-
----
-
-## 🏅 Certifications & Highlights
-
-- **CAPM® — Certified Associate in Project Management**, PMI (2026)
-- **Bachelor of Science, Cum Laude**, Saint Leo University (2026)
-- **GitHub Foundations Certification** (2024)
-- **Microsoft Learn Student Ambassador — Senior** (2026)
-- **Aspire Leaders Program — Finalist** (2025)
-
-## 🌱 Community & Leadership
-
-As **President of the PMI Norte Perú Chapter Student Club**, I help advance student participation in project management through learning initiatives, collaboration, volunteering, and professional development.
-
-As a **Microsoft Learn Student Ambassador**, I've contributed to **15+ technical workshops and learning activities**, reaching **600+ participants** across educational and community spaces.
-
-I believe technical skills create solutions — and leadership helps those solutions make a meaningful impact.
-
----
-
-## 📊 GitHub Activity
+## 🪐 Explore my work
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dm-barr&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dm-barr&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" height="165" />
+[![PetConnect](https://github-readme-stats.vercel.app/api/pin/?username=dm-barr&repo=PetConnect&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=D1D5DB)](https://github.com/dm-barr/PetConnect)
+[![hemocax](https://github-readme-stats.vercel.app/api/pin/?username=dm-barr&repo=hemocax&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=D1D5DB)](https://github.com/dm-barr/hemocax)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dm-barr&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" width="95%" />
+[![appTemperatura](https://github-readme-stats.vercel.app/api/pin/?username=dm-barr&repo=appTemperatura&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=D1D5DB)](https://github.com/dm-barr/appTemperatura)
 
 </div>
 
-> GitHub statistics reflect public repository activity and do not capture all work completed in private, academic, or team environments.
+<div align="center">
+  <a href="https://github.com/dm-barr?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-%E2%86%92-7C3AED?style=for-the-badge" alt="View all repositories" />
+  </a>
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🏆 Beyond the code
 
-I'm interested in connecting with people working on **software engineering, cybersecurity, AI, project management, and technology-driven social impact**.
+```text
+CAPM® certified
+└── Bringing structure, clarity, and momentum to technology projects
 
-📩 **Email:** [dianabarrantesga1510@gmail.com](mailto:dianabarrantesga1510@gmail.com)  
-💼 **LinkedIn:** [dianabarrantesgallardo](https://www.linkedin.com/in/dianabarrantesgallardo)  
-💻 **GitHub:** [@dm-barr](https://github.com/dm-barr)
+Microsoft Learn Student Ambassador — Gold
+└── Learning in public and helping communities grow through technology
+
+Community & student leadership
+└── Connecting people, knowledge, and opportunities
+```
+
+My favorite projects are the ones where **technical execution and human collaboration** strengthen each other.
+
+---
+
+## 📊 Signals from GitHub
 
 <div align="center">
 
-*Building technology. Leading with purpose. Learning continuously.* ✨
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dm-barr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=D1D5DB&ring_color=7C3AED" alt="Diana's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dm-barr&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=D1D5DB&langs_count=8" alt="Diana's most used languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=dm-barr&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=C084FC&currStreakLabel=C084FC" alt="Diana's GitHub streak" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dm-barr&bg_color=0D1117&color=C084FC&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Diana's contribution activity graph" />
+
+</div>
+
+---
+
+## 🌙 Current orbit
+
+- Deepening my knowledge of **cybersecurity and secure development**.
+- Exploring **AI, automation, and data-driven products**.
+- Building a portfolio that connects **engineering, project management, and community impact**.
+- Improving my English while collaborating across borders.
+
+---
+
+<div align="center">
+
+### Let's build something meaningful.
+
+If your idea sits somewhere between **technology, impact, and people**, I would love to hear about it.
+
+[![Email me](https://img.shields.io/badge/EMAIL_ME-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dianabarrantesga1510@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dianabarrantesgallardo)
+
+<sub>Made with curiosity, intention, and a little midnight purple ✦</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D0B1E,50:4C1D95,100:A855F7" alt="Purple footer wave" />
 
 </div>
